@@ -1,5 +1,5 @@
 ### 机场列表导航菜单-点击下方蓝色字体即可跳转⬇️
-| 机场名称 | 官网 | 详情(白嫖码.测速) |
+| 机场名称 | 官网 | 详情(白嫖码.测速等) |
 |--------|-----------|--------------|
 | 榴莲 | [官网](https://apps.apple.com/us/app/shadowrocket/id932747118) | [详情](https://github.com/libnyanpasu/clash-nyanpasu) |
 | ASA加速器 | [官网](https://bbaa.fhq.in/#/register?code=XYf9rJLS) | [详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/ASA%E5%8A%A0%E9%80%9F%E5%99%A8.md) |
