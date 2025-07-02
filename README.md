@@ -7,7 +7,6 @@
 | 机场名称 | 官网 | 详情(白嫖码.测速等) |
 |--------|-----------|--------------|
 | 太空人 | [官网](https://tkrjc.xyz/#/register?code=dTWJxcIP) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%A4%AA%E7%A9%BA%E4%BA%BA.md) |
-
 | 榴莲 | [官网](https://apps.apple.com/us/app/shadowrocket/id932747118) | [点击查看详情](https://github.com/libnyanpasu/clash-nyanpasu) |
 | ASA加速器 | [官网](https://bbaa.fhq.in/#/register?code=XYf9rJLS) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/ASA%E5%8A%A0%E9%80%9F%E5%99%A8.md) |
 | Kuromi Network | [官网](https://kurominetwork.ggff.net/#/register?code=P9vwQPFT) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/Kuromi%20Network.md) |
