@@ -6,6 +6,8 @@
 ### 以下机场测速图来源 https://t.me/fewiki
 | 机场名称 | 官网 | 详情(白嫖码.测速等) |
 |--------|-----------|--------------|
+| 太空人 | [官网](https://tkrjc.xyz/#/register?code=dTWJxcIP) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%A4%AA%E7%A9%BA%E4%BA%BA.md) |
+
 | 榴莲 | [官网](https://apps.apple.com/us/app/shadowrocket/id932747118) | [点击查看详情](https://github.com/libnyanpasu/clash-nyanpasu) |
 | ASA加速器 | [官网](https://bbaa.fhq.in/#/register?code=XYf9rJLS) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/ASA%E5%8A%A0%E9%80%9F%E5%99%A8.md) |
 | Kuromi Network | [官网](https://kurominetwork.ggff.net/#/register?code=P9vwQPFT) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/Kuromi%20Network.md) |
@@ -15,4 +17,3 @@
 | 好梯子 | [官网](https://xin.students.xin/#/register?code=NSJBQWHM) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%A5%BD%E6%A2%AF%E5%AD%90.md) |
 | 平行空间 | [官网](https://pxkj.999g.xyz/#/register?code=Y2lZankh) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4.md) |
 | 豚鼠机场 | [官网](https://tsjc.xyz/#/register?code=9gszfuOa) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E8%B1%9A%E9%BC%A0%E6%9C%BA%E5%9C%BA.md) |
-| 太空人 | [官网](https://tkrjc.xyz/#/register?code=dTWJxcIP) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%A4%AA%E7%A9%BA%E4%BA%BA.md) |
