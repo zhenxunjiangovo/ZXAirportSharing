@@ -7,6 +7,7 @@
 | 机场名称 | 官网 | 详情(白嫖码.测速等) |
 |:---:|:---:|:---:|
 | 香港自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E9%A6%99%E6%B8%AF%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
+| 台湾自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E5%8F%B0%E6%B9%BE%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 美国自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 日本自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%97%A5%E6%9C%AC%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 太空人 | [官网](https://tkrjc.xyz/#/register?code=dTWJxcIP) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%A4%AA%E7%A9%BA%E4%BA%BA.md) |
