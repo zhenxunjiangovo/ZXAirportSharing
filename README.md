@@ -6,7 +6,8 @@
 ### 以下机场测速图来源 [一尺 盗高](https://t.me/fewiki)
 | 机场名称 | 官网 | 详情(白嫖码.测速等) |
 |:---:|:---:|:---:|
-| 香港自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
+| 香港自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E9%A6%99%E6%B8%AF%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
+| 美国自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 太空人 | [官网](https://tkrjc.xyz/#/register?code=dTWJxcIP) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%A4%AA%E7%A9%BA%E4%BA%BA.md) |
 | 榴莲 | [官网](https://apps.apple.com/us/app/shadowrocket/id932747118) | [点击查看详情](https://github.com/libnyanpasu/clash-nyanpasu) |
 | ASA加速器 | [官网](https://bbaa.fhq.in/#/register?code=XYf9rJLS) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/ASA%E5%8A%A0%E9%80%9F%E5%99%A8.md) |
