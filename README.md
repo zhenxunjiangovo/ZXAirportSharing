@@ -3,7 +3,7 @@
 ### 个人精力有限更新较慢，平均至少2到3天1更，请大家谅解，谢谢🙏🏻🙏🏻🙏🏻
 ### 温馨提示⚠️
 尽量选择靠前(最新)的机场，以前的白嫖码有可能过期了
-### 以下机场测速图来源 https://t.me/fewiki
+### 以下机场测速图来源 [一尺 盗高](https://t.me/fewiki)
 | 机场名称 | 官网 | 详情(白嫖码.测速等) |
 |:---:|:---:|:---:|
 | 太空人 | [官网](https://tkrjc.xyz/#/register?code=dTWJxcIP) | [点击查看详情](https://github.com/zhenxunjiangovo/ZX-AirportSharing/blob/main/%E5%A4%AA%E7%A9%BA%E4%BA%BA.md) |
