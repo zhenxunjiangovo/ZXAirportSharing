@@ -11,6 +11,8 @@
 | 台湾自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E5%8F%B0%E6%B9%BE%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 美国自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 日本自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%97%A5%E6%9C%AC%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
+| 泡泡龙 | [官网](https://my.xn--zwwa6600b.xyz/#/register?code=W2KGV4gY) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%B3%A1%E6%B3%A1%E9%BE%99.md) |
+| Cloxy | [官网](https://cloxy.io/#/quick?code=X6CffYnj) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/Cloxy.md) |
 | 疾风 | [官网](https://jf.luxnu.cn/#/register?code=pWr3hpxh) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%96%BE%E9%A3%8E.md) |
 | 飞链 | [官网](https://www.flylink.cyou) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E9%A3%9E%E9%93%BE.md) |
 | 免流云 | [官网](https://ml4.hfhfb.homes/#/register?code=59XwgXXp) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E5%85%8D%E6%B5%81%E4%BA%91.md) |
