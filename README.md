@@ -4,7 +4,6 @@
 ### 个人精力有限更新较慢，平均至少2到3天1更，请大家谅解，谢谢🙏🏻🙏🏻🙏🏻
 ### 温馨提示⚠️
 尽量选择靠前(最新)的机场，以前的白嫖码有可能过期了
-### 以下机场测速图来源 [一尺 盗高](https://t.me/fewiki)
 | 机场名称 | 官网 | 详情(白嫖码.测速等) |
 |:---:|:---:|:---:|
 | 香港自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E9%A6%99%E6%B8%AF%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
