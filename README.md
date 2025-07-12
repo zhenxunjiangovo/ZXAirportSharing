@@ -1,7 +1,7 @@
 ### 机场列表导航菜单-点击下方蓝色字体即可跳转⬇️
 ### 以下机场是真寻个人全网查找的
 ### 真寻的官方频道: [ZX白嫖分享](https://t.me/ZXAirportSharing)
-### 真寻自用测速机器人bot/群组: [节点测速群组](https://t.me/clashuan)，[koipy bot](https://t.me/csgqrgjbbot)，[翻翻墙群组](https://t.me/FFQGroup)
+### 真寻自用测速机器人bot/群组: [koipy bot](https://t.me/csgqrgjbbot)，[节点测速群组](https://t.me/clashuan)，[翻翻墙群组](https://t.me/FFQGroup)
 ### 个人精力有限更新较慢，平均至少2到3天1更，请大家谅解，谢谢🙏🏻🙏🏻🙏🏻
 ### 温馨提示⚠️
 尽量选择靠前(最新)的机场，以前的白嫖码有可能过期了
