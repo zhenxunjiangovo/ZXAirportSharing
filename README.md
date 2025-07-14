@@ -11,6 +11,7 @@
 | 台湾自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E5%8F%B0%E6%B9%BE%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 美国自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 日本自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%97%A5%E6%9C%AC%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
+| Loopy Cloud | [官网](https://loopycloud.ggff.net) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/Loopy%20Cloud.md) |
 | 红豆机场 | [官网](https://redbean.pro) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%BA%A2%E8%B1%86%E6%9C%BA%E5%9C%BA.md) |
 | 豌豆机场 | [官网](https://xn--mh3ala.xyz) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E8%B1%8C%E8%B1%86%E6%9C%BA%E5%9C%BA.md) |
 | 星港机场 | [官网](http://asd.xg-hub.icu) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%98%9F%E6%B8%AF%E6%9C%BA%E5%9C%BA.md) |
