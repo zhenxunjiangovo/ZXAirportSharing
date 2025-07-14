@@ -16,7 +16,6 @@
 | 星港机场 | [官网](http://asd.xg-hub.icu) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%98%9F%E6%B8%AF%E6%9C%BA%E5%9C%BA.md) |
 | 云游中转 | [官网](https://www.yunucloud.com) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E4%BA%91%E6%B8%B8%E4%B8%AD%E8%BD%AC.md) |
 | 快乐蜂 | [官网](https://kuailefeng.xyz) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E5%BF%AB%E4%B9%90%E8%9C%82.md) |
-| Chiikawa Network | [官网](https://chiikawa-network.ggff.net) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/Chiikawa%20Network.md) |
 | 西贡在线 | [官网](https://img.saigonfly.com/static/dd3d50270d92d8d4dc8fedeab39e03e7) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E8%A5%BF%E8%B4%A1%E5%9C%A8%E7%BA%BF.md) |
 | 泡泡龙 | [官网](https://my.xn--zwwa6600b.xyz/#/register?code=W2KGV4gY) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%B3%A1%E6%B3%A1%E9%BE%99.md) |
 | Cloxy | [官网](https://cloxy.io/#/quick?code=X6CffYnj) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/Cloxy.md) |
