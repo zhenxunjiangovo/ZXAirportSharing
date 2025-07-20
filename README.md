@@ -11,7 +11,7 @@
 | 台湾自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E5%8F%B0%E6%B9%BE%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 美国自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
 | 日本自建节点合集 | [官方频道](https://t.me/ZXAirportSharing) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E6%97%A5%E6%9C%AC%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9%E5%90%88%E9%9B%86.md) |
-| 银河驿站 | [官网](http://yylx7.yylxjichang.link) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E9%93%B6%E6%B2%B3%E9%A9%BF%E7%AB%99.md) |
+| 银河驿站 | [官网](https://yz.yinheyz.cfd) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E9%93%B6%E6%B2%B3%E9%A9%BF%E7%AB%99.md) |
 | 奶茶 | [官网](https://tecentapi.xn--fiqs8s40dz2j.com/api/v1/client/subscribe?token=1ff2c082eaefc5dfb2f6e627a332f1e3) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/%E5%A5%B6%E8%8C%B6.md) |
 | Nexia | [官网](https://nexia.688997.xyz) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/Nexia.md) |
 | Loopy Cloud | [官网](https://loopycloud.ggff.net) | [点击查看详情](https://github.com/zhenxunjiangovo/ZXAirportSharing/blob/main/Loopy%20Cloud.md) |
